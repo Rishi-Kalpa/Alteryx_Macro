@@ -6,7 +6,7 @@ BatchMacro1
 BatchMacro1
 ![BatchMacro1](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/3c620a70-0ca6-41e2-8fce-8a09d9af497c)
 
-BatchMacro3
+IterativeMacro3
 ![Macro1](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/55dfd951-24bc-4fc2-8066-e917405fbbbf)
 
 BatchMacro4
