@@ -3,7 +3,7 @@
 BatchMacro1
 ![BatchMacro](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/2b06000d-32c0-4bd9-b6ae-f69c0c5fcf87)
 
-BatchMacro1
+BatchMacro2
 ![BatchMacro1](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/3c620a70-0ca6-41e2-8fce-8a09d9af497c)
 
 IterativeMacro3
